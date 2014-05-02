@@ -958,3 +958,12 @@ Stack Trace:
 #1 D:\xampp\htdocs\Deji\trunk\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(MembersController), Object(CakeRequest), Object(CakeResponse))
 #2 D:\xampp\htdocs\Deji\trunk\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #3 {main}
+2014-05-02 11:55:15 Error: [MissingControllerException] Controller class DejitestController could not be found.
+Exception Attributes: array (
+  'class' => 'DejitestController',
+  'plugin' => NULL,
+)
+Request URL: /DejiTest/trunk/Dejitest/trunk/
+Stack Trace:
+#0 D:\xampp\htdocs\DejiTest\trunk\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
