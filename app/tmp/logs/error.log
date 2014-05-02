@@ -861,3 +861,100 @@ Stack Trace:
 #3 D:\xampp\htdocs\test\lib\Cake\Core\App.php(902): App::_checkFatalError()
 #4 [internal function]: App::shutdown()
 #5 {main}
+2014-05-02 11:28:47 Error: [MissingControllerException] Controller class DejiController could not be found.
+Exception Attributes: array (
+  'class' => 'DejiController',
+  'plugin' => NULL,
+)
+Request URL: /Deji/trunk/deji/trunk/
+Stack Trace:
+#0 D:\xampp\htdocs\Deji\trunk\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-02 11:37:06 Error: [MissingActionException] Action MembersController::member_index() could not be found.
+Exception Attributes: array (
+  'controller' => 'MembersController',
+  'action' => 'member_index',
+)
+Request URL: /Deji/trunk/
+Stack Trace:
+#0 D:\xampp\htdocs\Deji\trunk\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\Deji\trunk\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(MembersController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\xampp\htdocs\Deji\trunk\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 11:37:10 Error: [MissingActionException] Action MembersController::member_index() could not be found.
+Exception Attributes: array (
+  'controller' => 'MembersController',
+  'action' => 'member_index',
+)
+Request URL: /Deji/trunk/
+Stack Trace:
+#0 D:\xampp\htdocs\Deji\trunk\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\Deji\trunk\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(MembersController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\xampp\htdocs\Deji\trunk\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 11:37:11 Error: [MissingActionException] Action MembersController::member_index() could not be found.
+Exception Attributes: array (
+  'controller' => 'MembersController',
+  'action' => 'member_index',
+)
+Request URL: /Deji/trunk/
+Stack Trace:
+#0 D:\xampp\htdocs\Deji\trunk\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\Deji\trunk\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(MembersController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\xampp\htdocs\Deji\trunk\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 11:40:13 Error: [MissingActionException] Action MembersController::member_index() could not be found.
+Exception Attributes: array (
+  'controller' => 'MembersController',
+  'action' => 'member_index',
+)
+Request URL: /Deji/trunk/
+Stack Trace:
+#0 D:\xampp\htdocs\Deji\trunk\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\Deji\trunk\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(MembersController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\xampp\htdocs\Deji\trunk\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 11:40:15 Error: [MissingActionException] Action MembersController::member_index() could not be found.
+Exception Attributes: array (
+  'controller' => 'MembersController',
+  'action' => 'member_index',
+)
+Request URL: /Deji/trunk/
+Stack Trace:
+#0 D:\xampp\htdocs\Deji\trunk\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\Deji\trunk\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(MembersController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\xampp\htdocs\Deji\trunk\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 11:40:16 Error: [MissingActionException] Action MembersController::member_index() could not be found.
+Exception Attributes: array (
+  'controller' => 'MembersController',
+  'action' => 'member_index',
+)
+Request URL: /Deji/trunk/
+Stack Trace:
+#0 D:\xampp\htdocs\Deji\trunk\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\Deji\trunk\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(MembersController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\xampp\htdocs\Deji\trunk\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 11:40:17 Error: [MissingActionException] Action MembersController::member_index() could not be found.
+Exception Attributes: array (
+  'controller' => 'MembersController',
+  'action' => 'member_index',
+)
+Request URL: /Deji/trunk/
+Stack Trace:
+#0 D:\xampp\htdocs\Deji\trunk\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\Deji\trunk\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(MembersController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\xampp\htdocs\Deji\trunk\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-02 11:40:24 Error: [MissingActionException] Action MembersController::member_index() could not be found.
+Exception Attributes: array (
+  'controller' => 'MembersController',
+  'action' => 'member_index',
+)
+Request URL: /Deji/trunk/
+Stack Trace:
+#0 D:\xampp\htdocs\Deji\trunk\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 D:\xampp\htdocs\Deji\trunk\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(MembersController), Object(CakeRequest), Object(CakeResponse))
+#2 D:\xampp\htdocs\Deji\trunk\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
