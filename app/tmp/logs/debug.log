@@ -1,0 +1,44 @@
+2014-05-01 09:49:23 Debug: Notice (8): Undefined variable: posts in [D:\xampp\htdocs\test\app\View\Members\export.ctp, line 4]
+Trace:
+include - APP\View\Members\export.ctp, line 4
+View::_evaluate() - CORE\Cake\View\View.php, line 935
+View::_render() - CORE\Cake\View\View.php, line 897
+View::render() - CORE\Cake\View\View.php, line 466
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 192
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 160
+[main] - APP\webroot\index.php, line 108
+
+2014-05-01 09:49:23 Debug: Notice (8): Undefined variable: posts in [D:\xampp\htdocs\test\app\View\Members\export.ctp, line 8]
+Trace:
+include - APP\View\Members\export.ctp, line 8
+View::_evaluate() - CORE\Cake\View\View.php, line 935
+View::_render() - CORE\Cake\View\View.php, line 897
+View::render() - CORE\Cake\View\View.php, line 466
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 192
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 160
+[main] - APP\webroot\index.php, line 108
+
+2014-05-01 09:50:17 Debug: Notice (8): Undefined variable: posts in [D:\xampp\htdocs\test\app\View\Members\export.ctp, line 4]
+Trace:
+include - APP\View\Members\export.ctp, line 4
+View::_evaluate() - CORE\Cake\View\View.php, line 935
+View::_render() - CORE\Cake\View\View.php, line 897
+View::render() - CORE\Cake\View\View.php, line 466
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 192
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 160
+[main] - APP\webroot\index.php, line 108
+
+2014-05-01 09:50:17 Debug: Notice (8): Undefined variable: posts in [D:\xampp\htdocs\test\app\View\Members\export.ctp, line 8]
+Trace:
+include - APP\View\Members\export.ctp, line 8
+View::_evaluate() - CORE\Cake\View\View.php, line 935
+View::_render() - CORE\Cake\View\View.php, line 897
+View::render() - CORE\Cake\View\View.php, line 466
+Controller::render() - CORE\Cake\Controller\Controller.php, line 954
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 192
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 160
+[main] - APP\webroot\index.php, line 108
+
